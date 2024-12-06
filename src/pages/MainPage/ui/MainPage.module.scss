@@ -1,0 +1,16 @@
+.pageContainer {
+  box-sizing: border-box;
+  width: 100%;
+  padding: 30px;
+
+  height: 600px;
+  overflow: auto;
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  gap: 10px;
+
+  margin: 50px auto;
+}
